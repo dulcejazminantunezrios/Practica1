@@ -10,11 +10,22 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text= "DULCE JAZMIN ANTUNEZ RIOS"
+        android:text= "Dulce Jazmín Antúnez Ríos"
         android:layout_centerVertical="true"
         android:textSize="50dp"
         android:textAlignment="center"
-        android:background= "#2196F3"
+        android:background= "#802196F3"
     >
     </TextView>
-    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="450dp"
+        android:text="TI DSM 4°B :)"
+        android:textColor="#fff"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:background="#00BCD4"/>
+</RelativeLayout>
